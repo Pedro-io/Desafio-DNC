@@ -51,12 +51,4 @@ O projeto envolveu a criação de métricas, incluindo quantidade e valor total 
 7. **Filtros:**
    - Foram implementados filtros para bandeira, estado, canal de venda, departamento, idade, faixa de renda e estado de nascimento.
 
-### Critérios de Avaliação 📝
-Os critérios de avaliação incluem a criação de gráficos tipo cartão, gráficos de linhas e barras, bem como a implementação de filtros relevantes.
 
-### Entrega 📆
-- Utilize a planilha fornecida como modelo.
-- Coloque o arquivo em Power BI em uma pasta no drive.
-- Envie o link compartilhável do drive para a correção.
-
-Boa sorte! 🚀
